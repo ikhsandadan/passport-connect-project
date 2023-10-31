@@ -44,7 +44,7 @@ Clone this repository:
 
 Once you have cloned the project repository, run the following command to change directory to the cloned repository and install the necessary libraries and dependencies.
 
-    cd && npm install
+    cd passport-connect-project && npm install
 
 In the code editor application you are using (in this case, I am using **VS Code**), open the "app.js" file in the project directory.
 ![7](https://imageupload.io/ib/O6HDv57JDHzfgZt_1698744182.png)
